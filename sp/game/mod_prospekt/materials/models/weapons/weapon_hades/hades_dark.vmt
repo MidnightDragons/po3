@@ -1,0 +1,9 @@
+"PBR"
+{
+	"$basetexture" "models\weapons\weapon_hades\hades_dark_color"
+	"$mraotexture" "models\weapons\weapon_hades\hades_dark_mrao"
+	"$bumpmap" "models\weapons\weapon_hades\hades_dark_normal"
+
+	"$envmap" "env_cubemap"
+	"$model" "1"
+}

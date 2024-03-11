@@ -1,0 +1,6 @@
+"SDK_VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\weapon_hades\hades_decal_color"
+	"$translucent" "1"
+	"$model" "1"
+}

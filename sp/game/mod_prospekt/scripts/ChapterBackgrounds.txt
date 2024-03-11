@@ -1,0 +1,12 @@
+chapters
+{
+	1	"pxg_background_01"
+	2	"pxg_background_01"
+	3	"pxg_background_01"
+	4	"pxg_background_01"
+	5	"pxg_background_01"
+	6	"pxg_background_01"
+	7	"pxg_background_01"
+	8	"pxg_background_01"
+	9	"pxg_background_01"
+}
