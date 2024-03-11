@@ -33,7 +33,7 @@
       keyvalues        0 bytes
       bone transforms        0 bytes
       bone flex driver       0 bytes
-      Collision model volume 891.07 in^3
+      Collision model volume 669.47 in^3
       collision        0 bytes
       total         2920
       ---------------------

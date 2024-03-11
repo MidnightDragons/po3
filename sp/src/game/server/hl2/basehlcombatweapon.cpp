@@ -80,7 +80,8 @@ void CHLMachineGun::PrimaryAttack( void )
 	{
 		if ( iBulletsToFire > m_iClip1 )
 			iBulletsToFire = m_iClip1;
-		m_iClip1 -= iBulletsToFire;
+		m_iClip1 -= 1;
+		//m_iClip1 -= iBulletsToFire;
 	}
 
 	m_iPrimaryAttacks++;
@@ -88,7 +89,8 @@ void CHLMachineGun::PrimaryAttack( void )
 
 	// Fire the bullets
 	FireBulletsInfo_t info;
-	info.m_iShots = iBulletsToFire;
+	info.m_iShots = 1;
+	//info.m_iShots = iBulletsToFire;
 	info.m_vecSrc = pPlayer->Weapon_ShootPosition( );
 	info.m_vecDirShooting = pPlayer->GetAutoaimVector( AUTOAIM_SCALE_DEFAULT );
 	info.m_vecSpread = pPlayer->GetAttackSpread( this );

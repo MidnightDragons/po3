@@ -1,6 +1,4 @@
-$modelname "weapons/weapon_hades.mdl"
-
-$staticprop
+$modelname "weapons/w_hades.mdl"
 
 $bodygroup "Body"
 {
@@ -12,8 +10,6 @@ $surfaceprop "weapon"
 $contents "solid"
 
 $cdmaterials "models\weapons\weapon_hades\"
-
-$definebone "static_prop" "" 0 0 0 0 0 0 0 0 0 0 0 0
 
 $sequence "idle" {
 	"anims\idle.smd"

@@ -1,9 +1,6 @@
-"PBR"
+"SDK_VertexLitGeneric"
 {
 	"$basetexture" "models\weapons\weapon_hades\hades_glass_color"
-	"$mraotexture" "models\weapons\weapon_hades\hades_glass_mrao"
-	"$bumpmap" "models\weapons\weapon_hades\hades_glass_normal"
-
 	"$envmap" "env_cubemap"
 	"$model" "1"
 }

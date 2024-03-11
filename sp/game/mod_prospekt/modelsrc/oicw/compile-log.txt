@@ -1,0 +1,183 @@
+// Created by Crowbar 0.71
+
+  Compiling "hades.qc" ...
+    Output from compiler "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\bin\studiomdl.exe": 
+      qdir:    "c:\users\treet\all_folders\po3-master\sp\game\mod_prospekt\modelsrc\oicw\"
+      gamedir: "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\"
+      g_path:  "hades.qc"
+      Building binary model files...
+      Working on "hades.qc"
+      SMD MODEL hades.smd
+      SMD MODEL anims\idle.smd
+      SMD MODEL hades_phys.smd
+      Processing LOD for material: hades_decal
+      Processing LOD for material: hades_main
+      Processing LOD for material: hades_light
+      Processing LOD for material: hades_orange
+      Processing LOD for material: hades_dark
+      Processing LOD for material: hades_grip
+      Processing LOD for material: hades_glass
+      Model has 3 convex sub-parts
+      Collision model completed.
+      ---------------------
+      writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models/weapons/w_hades.mdl:
+      bones          964 bytes (1)
+         animation       x       y       ips    angle
+             @idle    0.00    0.00 :     inf (   0.00) 0.0
+      animations     112 bytes (1 anims) (1 frames) [0:00]
+      sequences      220 bytes (1 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       468 bytes
+      keyvalues        0 bytes
+      bone transforms        0 bytes
+      bone flex driver       0 bytes
+      Collision model volume 669.47 in^3
+      collision        0 bytes
+      total         2908
+      ---------------------
+      writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models/weapons/w_hades.vvd:
+      vertices    436896 bytes (9102 vertices)
+      tangents    145632 bytes (9102 vertices)
+      total       582592 bytes
+      ---------------------
+      Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models/weapons/w_hades.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            63 bytes
+      strip groups:     175 bytes
+      strips:           189 bytes
+      verts:          81918 bytes
+      indices:        40344 bytes
+      bone changes:       8 bytes
+      everything:    122761 bytes
+      ---------------------
+      Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models/weapons/w_hades.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            63 bytes
+      strip groups:     175 bytes
+      strips:           189 bytes
+      verts:          81918 bytes
+      indices:        40344 bytes
+      bone changes:      64 bytes
+      everything:    122817 bytes
+      ---------------------
+      Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models/weapons/w_hades.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            63 bytes
+      strip groups:     175 bytes
+      strips:           189 bytes
+      verts:          81918 bytes
+      indices:        40344 bytes
+      bone changes:      64 bytes
+      everything:    122817 bytes
+      
+      Completed "hades.qc"
+    CROWBAR: Moved compiled model file "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models\weapons\w_hades.dx80.vtx" to "C:\Users\treet\all_folders\po3-master\sp\game\mod_prospekt\modelsrc\oicw\compiled 0.71\models\weapons"
+    CROWBAR: Moved compiled model file "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models\weapons\w_hades.dx90.vtx" to "C:\Users\treet\all_folders\po3-master\sp\game\mod_prospekt\modelsrc\oicw\compiled 0.71\models\weapons"
+    CROWBAR: Moved compiled model file "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models\weapons\w_hades.mdl" to "C:\Users\treet\all_folders\po3-master\sp\game\mod_prospekt\modelsrc\oicw\compiled 0.71\models\weapons"
+    CROWBAR: Moved compiled model file "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models\weapons\w_hades.phy" to "C:\Users\treet\all_folders\po3-master\sp\game\mod_prospekt\modelsrc\oicw\compiled 0.71\models\weapons"
+    CROWBAR: Moved compiled model file "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models\weapons\w_hades.sw.vtx" to "C:\Users\treet\all_folders\po3-master\sp\game\mod_prospekt\modelsrc\oicw\compiled 0.71\models\weapons"
+    CROWBAR: Moved compiled model file "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models\weapons\w_hades.vvd" to "C:\Users\treet\all_folders\po3-master\sp\game\mod_prospekt\modelsrc\oicw\compiled 0.71\models\weapons"
+    CROWBAR: Deleted empty temporary compile folder "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models\weapons".
+  ... Compiling "hades.qc" finished. Check above for any errors.
+
+  Compiling "v_hades.qc" ...
+    Output from compiler "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\bin\studiomdl.exe": 
+      qdir:    "c:\users\treet\all_folders\po3-master\sp\game\mod_prospekt\modelsrc\oicw\"
+      gamedir: "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\"
+      g_path:  "v_hades.qc"
+      Building binary model files...
+      Working on "v_hades.qc"
+      SMD MODEL v_hades.smd
+      SMD MODEL anims\idle01.smd
+      SMD MODEL anims\fire01.smd
+      SMD MODEL anims\unf_altfire.smd
+      SMD MODEL anims\draw.smd
+      SMD MODEL anims\unf_reload.smd
+      SMD MODEL anims\unf_dryfire.smd
+      Processing LOD for material: v_hand_sheet
+      Processing LOD for material: hades_decal
+      Processing LOD for material: hades_main
+      Processing LOD for material: hades_light
+      Processing LOD for material: hades_orange
+      Processing LOD for material: hades_dark
+      Processing LOD for material: hades_grip
+      Processing LOD for material: hades_glass
+      ---------------------
+      writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models/weapons/v_hades.mdl:
+      bones         7616 bytes (28)
+         animation       x       y       ips    angle
+           @idle01    0.00    0.00 :    0.00 (   0.00) 4.0
+           @fire01    0.00    0.00 :    0.00 (   0.00) 0.2
+          @altfire    0.00    0.00 :    0.00 (   0.00) 0.5
+             @draw    0.00    0.00 :    0.00 (   0.00) 0.8
+           @reload    0.00    0.00 :    0.00 (   0.00) 1.5
+          @dryfire    0.00    0.00 :    0.00 (   0.00) 0.2
+      animations    9852 bytes (6 anims) (224 frames) [0:07]
+      sequences     1580 bytes (6 seq) 
+      ik/pose        164 bytes
+      eyeballs         0 bytes (0 eyeballs)
+      flexes           0 bytes (0 flexes)
+      textures       536 bytes
+      keyvalues        0 bytes
+      bone transforms     3872 bytes
+      bone flex driver       0 bytes
+      collision        0 bytes
+      total        25660
+      ---------------------
+      writing C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models/weapons/v_hades.vvd:
+      vertices    492768 bytes (10266 vertices)
+      tangents    164256 bytes (10266 vertices)
+      total       657088 bytes
+      ---------------------
+      Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models/weapons/v_hades.sw.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            72 bytes
+      strip groups:     200 bytes
+      strips:           216 bytes
+      verts:          92394 bytes
+      indices:        48858 bytes
+      bone changes:       8 bytes
+      everything:    141812 bytes
+      ---------------------
+      Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models/weapons/v_hades.dx80.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            72 bytes
+      strip groups:     200 bytes
+      strips:           243 bytes
+      verts:          92448 bytes
+      indices:        48858 bytes
+      bone changes:     240 bytes
+      everything:    142125 bytes
+      ---------------------
+      Generating optimized mesh "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models/weapons/v_hades.dx90.vtx":
+      body parts:         8 bytes
+      models:            20 bytes
+      model LODs:        12 bytes
+      meshes:            72 bytes
+      strip groups:     200 bytes
+      strips:           216 bytes
+      verts:          92394 bytes
+      indices:        48858 bytes
+      bone changes:     224 bytes
+      everything:    142028 bytes
+      
+      Completed "v_hades.qc"
+    CROWBAR: Moved compiled model file "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models\weapons\v_hades.dx80.vtx" to "C:\Users\treet\all_folders\po3-master\sp\game\mod_prospekt\modelsrc\oicw\compiled 0.71\models\weapons"
+    CROWBAR: Moved compiled model file "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models\weapons\v_hades.dx90.vtx" to "C:\Users\treet\all_folders\po3-master\sp\game\mod_prospekt\modelsrc\oicw\compiled 0.71\models\weapons"
+    CROWBAR: Moved compiled model file "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models\weapons\v_hades.mdl" to "C:\Users\treet\all_folders\po3-master\sp\game\mod_prospekt\modelsrc\oicw\compiled 0.71\models\weapons"
+    CROWBAR: Moved compiled model file "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models\weapons\v_hades.sw.vtx" to "C:\Users\treet\all_folders\po3-master\sp\game\mod_prospekt\modelsrc\oicw\compiled 0.71\models\weapons"
+    CROWBAR: Moved compiled model file "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models\weapons\v_hades.vvd" to "C:\Users\treet\all_folders\po3-master\sp\game\mod_prospekt\modelsrc\oicw\compiled 0.71\models\weapons"
+    CROWBAR: Deleted empty temporary compile folder "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\models\weapons".
+  ... Compiling "v_hades.qc" finished. Check above for any errors.
